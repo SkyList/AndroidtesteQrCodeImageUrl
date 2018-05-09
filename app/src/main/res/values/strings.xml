@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android-teste</string>
+    <string name="action_settings">Settings</string>
+    <string name="materia">MATERIA</string>
+    <string name="nome">NOME</string>
+    <string name="todo">TODO</string>
+    <string name="data">DATA</string>
+</resources>
